@@ -1,9 +1,11 @@
 # coffee-sales-dashboard
 Overview:
+
 This project showcases an extensive Coffee Sales Dashboard developed in Excel, offering key insights into a coffee shop's sales performance during 2019-2020. The dashboard aids in identifying trends, patterns, and potential areas for enhancement.
 The Coffee Sales Dashboard delivers a thorough sales data analysis, enabling businesses to track their performance over time, pinpoint top customers, and assess product preferences. The project utilizes Excel functions such as XLOOKUP, INDEX, and MATCH to efficiently collect and analyze data, with IF statements employed to simplify the data processing.
 
 Data Description:
+
 The dataset contains the following columns in the Orders sheet:
 •	Order ID: A unique identifier assigned to each order.
 •	Order Date: The date when the order was placed.
@@ -21,18 +23,22 @@ The dataset contains the following columns in the Orders sheet:
 •	Coffee Type Name: The name of the coffee type (created using the IF function).
 •	Roast Type Name: The name of the roast type (created using the IF function).
 •	Loyalty Card: Indicates whether the customer has a loyalty card (retrieved using the XLOOKUP function from the Customers sheet).
+
 Dashboard Features:
+
 The Excel dashboard offers the following features:
 •	Sales Trends: A visual representation of sales over time, highlighting peaks and valleys.
 •	Product Performance: An evaluation of how different coffee products are performing in terms of sales.
 •	Revenue Breakdown: A detailed analysis of total sales revenue, segmented by product and country.
 •	Customer Insights: Insights into sales patterns based on customer types and loyalty card holders.
 •	Top Products: Identification of the best-selling products and their impact on overall sales.
-How to Use
+
+How to Use:
 To utilize the dashboard:
 •	Open the Excel file available in this repository.
 •	Explore the various sheets to gain insights into different aspects of the data.
 •	Apply filters and pivot tables to customize the view to your preferences.
+
 •	Snapshot of Dashboard (Excel)
 Steps followed:
 1. Data Exploration and Initial Setup
