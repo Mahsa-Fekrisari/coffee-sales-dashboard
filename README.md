@@ -2,6 +2,7 @@
 Overview:
 
 This project showcases an extensive Coffee Sales Dashboard developed in Excel, offering key insights into a coffee shop's sales performance during 2019-2020. The dashboard aids in identifying trends, patterns, and potential areas for enhancement.
+
 The Coffee Sales Dashboard delivers a thorough sales data analysis, enabling businesses to track their performance over time, pinpoint top customers, and assess product preferences. The project utilizes Excel functions such as XLOOKUP, INDEX, and MATCH to efficiently collect and analyze data, with IF statements employed to simplify the data processing.
 
 # Data Description:
