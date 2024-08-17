@@ -68,7 +68,7 @@ To utilize the dashboard:
 •	Apply filters and pivot tables to customize the view to your preferences.
 
 # Snapshot of Dashboard (Excel)
-<img src-"Coffee sales Dashboard.PNG">
+<img src-"Coffee sales Dashboard.PNG">Coffee sales Dashboard.png
 # Steps followed:
 # 1. Data Exploration and Initial Setup
 
